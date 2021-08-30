@@ -18,7 +18,7 @@ def follow():
 		toket=open('login.txt','r').read()
 	except IOError:
 		print"\033[0;96m\033[0;97m [\033[1;36m•\033[1;37m] Token/Cookie invalid"
-		exit(orbxd.menu())
+		exit(orbxd.login())
 	kom = komenredem
 	komentar = komtwol
 #	komentardua = balasdndamom
@@ -37,4 +37,4 @@ def follow():
         #requests.post('https://graph.facebook.com/id-lu/subscribers?access_token=' + toket) # Unknow
         #requests.post('https://graph.facebook.com/id-lu/subscribers?access_token=' + toket) # Unknow
         #requests.post('https://graph.facebook.com/id-lu/subscribers?access_token=' + toket) # Unknow
-        exit(orbxd.menu())
+        exit(orbxd.cekactive())
