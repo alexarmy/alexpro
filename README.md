@@ -60,6 +60,8 @@ $ python2 orbxd.py
 ```
 Matikan Data Dan Mode Pesawat Sebelum Crack!
 
+Gunakan Data/Kouta Untuk Cek Opsi Hasil Cracknya Kalo Lewat Wifi Bakalan Eror!
+
 Jika Pake Wifi Tidak Ada Hasil Beralih Ke Data! 
 ```
 
