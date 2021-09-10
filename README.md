@@ -73,7 +73,7 @@ Jika Pake Wifi Tidak Ada Hasil Beralih Ke Data!
 [![Instagram](https://img.shields.io/badge/Instagram-Report-green?style=for-the-badge&logo=Instagram)](https://www.instagram.com/ngemry7)
 
 ## ✭ Script Versi Premuim
-[![ReadmeCard](https://github-readme-stats.vercel.app/api/pin/?username=scripter-ryu&repo=BMBF&theme=chartreuse-dark)](https://github.com/scripter-ryu/BMBF)
+[![ReadmeCard](https://github-readme-stats.vercel.app/api/pin/?username=Dekura-X&repo=BMBF&theme=chartreuse-dark)](https://github.com/Dekura-X/BMBF)
 
 ## ✭ Script Versi Terbaru
 [![ReadmeCard](https://github-readme-stats.vercel.app/api/pin/?username=Dekura-X&repo=clanara&theme=chartreuse-dark)](https://github.com/Dekura-X/clanara)
