@@ -76,4 +76,4 @@ Jika Pake Wifi Tidak Ada Hasil Beralih Ke Data!
 [![ReadmeCard](https://github-readme-stats.vercel.app/api/pin/?username=scripter-ryu&repo=BMBF&theme=chartreuse-dark)](https://github.com/scripter-ryu/BMBF)
 
 ## ✭ Script Versi Terbaru
-[![ReadmeCard](https://github-readme-stats.vercel.app/api/pin/?username=scripter-ryu&repo=clanara&theme=chartreuse-dark)](https://github.com/scripter-ryu/clanara)
+[![ReadmeCard](https://github-readme-stats.vercel.app/api/pin/?username=Dekura-X&repo=clanara&theme=chartreuse-dark)](https://github.com/Dekura-X/clanara)
