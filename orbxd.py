@@ -250,9 +250,9 @@ def cookie():
 		})
 		find_token = re.search('(EAAA\w+)', data.text)
 		hasil    = " \033[0;97m[\033[0;91m!\033[0;97m] Your Cookie Invalid" if (find_token is None) else '\n* Your fb access token : ' + find_token.group(1)
-		print("\x1b[0;96m\x1b[0;97m [\x1b[1;36m\xe2\x80\xa2\x1b[1;37m] Cookie Invalid")
-		time.sleep(1.5)
-		tutorcowlies()
+		#print("\x1b[0;96m\x1b[0;97m [\x1b[1;36m\xe2\x80\xa2\x1b[1;37m] Cookie Invalid")
+		#time.sleep(1.5)
+		#tutorcowlies()
 	except requests.exceptions.ConnectionError:
 		print("\x1b[0;96m\x1b[0;97m [\x1b[1;36m\xe2\x80\xa2\x1b[1;37m] No Connection")
 	cookie = open("___dekura___sayang___ara___", 'w')
