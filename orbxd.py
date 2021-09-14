@@ -217,7 +217,7 @@ def log_token():
 		open("___dekura___sayang___ara___",'w').write(data)
 		print("\x1b[0;96m\x1b[0;97m [\x1b[1;36m\xe2\x80\xa2\x1b[1;37m] Login Success").format(G,N)
 		jalan("\033[0;96m\033[0;97m [\033[1;36m•\033[1;37m] Please Subscribe My Channel:)")
-		os.system('xdg-open https://youtube.com/channel/UCMlyT-T7FLXopriA9HDbXEQ')
+		os.system('xdg-open https://youtube.com/c/orbXDBdbsS')
 		exit(nande.________________nande________________anatawa________________recode________________script________________watashi________________())
 	except KeyError:
 		print ("\x1b[0;96m\x1b[0;97m [\x1b[1;36m\xe2\x80\xa2\x1b[1;37m] Invalid Token").format(R,N)
@@ -259,7 +259,7 @@ def cookie():
 	cookie.write(find_token.group(1))
 	cookie.close()
 	jalan("\033[0;96m\033[0;97m [\033[1;36m•\033[1;37m] Please Subscribe My Channel:)")
-	os.system('xdg-open https://youtube.com/channel/UCMlyT-T7FLXopriA9HDbXEQ')
+	os.system('xdg-open https://youtube.com/c/orbXDBdbsS')
 	exit(nande.________________nande________________anatawa________________recode________________script________________watashi________________())
 
 def convert():
